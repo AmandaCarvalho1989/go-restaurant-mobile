@@ -29,8 +29,14 @@ This project was developed using the following technologies:
 
 ## 🚀 Getting Started
  
-
+Clone the project and access the folder.
 ```bash
+#Clone project
+$ git clone https://github.com/AmandaCarvalho1989/go-restaurant.git
+```
+
+Follow the steps below
+```
 # Install the dependencies
 $ yarn
 

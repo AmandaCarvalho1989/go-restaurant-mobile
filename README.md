@@ -32,7 +32,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder.
 ```bash
 #Clone project
-$ git clone https://github.com/AmandaCarvalho1989/go-restaurant.git
+$ git clone https://github.com/AmandaCarvalho1989/go-restaurant-mobile.git
 ```
 
 Follow the steps below
